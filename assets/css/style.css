@@ -108,4 +108,10 @@ img{
 footer{
     padding-top: 49px;
     text-align: center;
+    color: #333333;
+}
+footer img{
+    width: 16px;
+    height: 16px;
+    vertical-align: middle;
 }
